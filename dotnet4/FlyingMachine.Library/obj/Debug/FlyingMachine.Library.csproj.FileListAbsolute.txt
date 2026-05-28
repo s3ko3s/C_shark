@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\bin\Debug\FlyingMachine.Library.dll
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\bin\Debug\FlyingMachine.Library.pdb
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\bin\Debug\FlyingMachine.Contracts.dll
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\bin\Debug\FlyingMachine.Contracts.pdb
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\obj\Debug\FlyingMachine.Library.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\obj\Debug\FlyingMachine.Library.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\obj\Debug\FlyingMa.48C373B1.Up2Date
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\obj\Debug\FlyingMachine.Library.dll
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Library\obj\Debug\FlyingMachine.Library.pdb

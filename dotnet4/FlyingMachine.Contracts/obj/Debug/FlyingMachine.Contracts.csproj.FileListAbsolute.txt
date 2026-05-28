@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Contracts\bin\Debug\FlyingMachine.Contracts.dll
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Contracts\bin\Debug\FlyingMachine.Contracts.pdb
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Contracts\obj\Debug\FlyingMachine.Contracts.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Contracts\obj\Debug\FlyingMachine.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Contracts\obj\Debug\FlyingMachine.Contracts.dll
+C:\Users\Ivan\Desktop\c#\dotnet2\FlyingMachine.Contracts\obj\Debug\FlyingMachine.Contracts.pdb

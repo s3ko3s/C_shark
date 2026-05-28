@@ -1,0 +1,10 @@
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.csproj.AssemblyReference.cache
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.Form1.resources
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.Properties.Resources.resources
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.csproj.GenerateResource.cache
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.csproj.CoreCompileInputs.cache
+C:\Users\limem\Desktop\dotnet2\bin\Debug\dotnet2.exe.config
+C:\Users\limem\Desktop\dotnet2\bin\Debug\dotnet2.exe
+C:\Users\limem\Desktop\dotnet2\bin\Debug\dotnet2.pdb
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.exe
+C:\Users\limem\Desktop\dotnet2\obj\Debug\dotnet2.pdb
